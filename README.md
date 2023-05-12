@@ -4,7 +4,7 @@
 
 
 ## 💻 Sobre o projeto
-Este projeto tem como objetivo estudo e incrementação do portfólio, trata-se de um e-commerce que trabalha com venda de modelos miniaturas de aviões possuindo escalas de P, M e G
+Este projeto tem como objetivo estudo e incrementação do portfólio, trata-se de um e-commerce que trabalha com venda de modelos miniaturas de aviões guerra possuindo escalas de P, M e G
 
 ## ✨ Funcionalidades
 
